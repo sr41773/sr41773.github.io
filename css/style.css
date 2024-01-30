@@ -192,3 +192,10 @@ footer{
     padding-top: 10px;
 }
 
+.hr{
+    border: 0; /* Removes default border */
+    border-top: 20px solid rgb(109, 147, 196); /* Sets a new top border with color */
+    margin: 20px 0; 
+
+}
+
